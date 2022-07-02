@@ -4,7 +4,7 @@ _A react app used to add, delete and comment on photos. All of these are achieve
 
 ## Project URL
 
-[PhotoWall](https://the-photo-wall.netlify.app/)
+[PhotoWall](https://photo-walled.netlify.app/)
 
 ## Getting Started with Create React App
 
