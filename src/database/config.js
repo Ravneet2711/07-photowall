@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const config = {
-  apiKey: "AIzaSyCvmkxmhqizgcJi-tgmAFWW1k6vvpNHSO4",
-  authDomain: "photowall7347.firebaseapp.com",
-  databaseURL: "https://photowall7347-default-rtdb.firebaseio.com",
-  projectId: "photowall7347",
-  storageBucket: "photowall7347.appspot.com",
-  messagingSenderId: "543857774060",
-  appId: "1:543857774060:web:d17ed53a517cc7f3aac4c9",
-  measurementId: "G-CK2R88KFLD",
+  apiKey: "AIzaSyBlea2VA09P-9rCrveFEuEL2OUvG_FqOjQ",
+  authDomain: "photowall-14443.firebaseapp.com",
+  databaseURL: "https://photowall-14443-default-rtdb.firebaseio.com",
+  projectId: "photowall-14443",
+  storageBucket: "photowall-14443.appspot.com",
+  messagingSenderId: "356260184403",
+  appId: "1:356260184403:web:6dd4940494560fa165a1a6",
+  measurementId: "G-9XFBV8TXKC"
 };
 
 // firebase.firestore().enablePersistence();
